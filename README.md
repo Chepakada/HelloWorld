@@ -20,4 +20,4 @@ The programming language used to code this program was Python
 
 {Make a list of websites that you found helpful in this project}
 * [Python Documentation][(https://www.python.org/doc/)]
-* [Python on Windows for beginners]([http://url.link.goes.here](https://learn.microsoft.com/en-us/windows/python/beginners))
+* [Python on Windows for beginners][(https://learn.microsoft.com/en-us/windows/python/beginners))]
