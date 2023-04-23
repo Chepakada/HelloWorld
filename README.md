@@ -8,7 +8,7 @@ The purpose to create this program is to estlabish the fact that coding is not l
 
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video][(https://youtu.be/MYmBOnXBR0c)]
 
 # Development Environment
 
@@ -18,6 +18,6 @@ The programming language used to code this program was Python
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
+
 * [Python Documentation][(https://www.python.org/doc/)]
 * [Python on Windows for beginners][(https://learn.microsoft.com/en-us/windows/python/beginners))]
